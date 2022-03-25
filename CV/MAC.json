@@ -18,6 +18,12 @@
         "notes": "Madrid"
       }
     },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/aescolanoc"
+      }
+    ],
     "interestingFacts": [
       {
         "topic": "Junior FrontEnd Developer",
