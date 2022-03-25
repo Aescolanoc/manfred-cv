@@ -182,12 +182,13 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
-        "name": "Introduction to Computer Networking course",
+        "name": "Introduction to Computer Networking Course",
         "startDate": "2019-07-01",
         "finishDate": "2019-08-01",
         "institution": {
           "name": "Stanford Online School of Engineering",
-          "description": ""
+          "description": "Structure and components of computer networks, packet switching, and layer architectures.",
+          "URL": "https://online.stanford.edu/courses/cs144-introduction-computer-networking"
         }
       }
     ]
