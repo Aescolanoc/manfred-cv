@@ -178,6 +178,17 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Introduction to Computer Networking course",
+        "startDate": "2019-07-01",
+        "finishDate": "2019-08-01",
+        "institution": {
+          "name": "Stanford Online School of Engineering",
+          "description": ""
+        }
       }
     ]
   },
