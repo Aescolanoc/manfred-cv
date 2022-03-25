@@ -99,6 +99,88 @@
       }
     ]
   },
+  "knowledge": {
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Full-Stack Web Development Bootcamp",
+        "startDate": "2022-01-01",
+        "finishDate": "2022-04-01",
+        "institution": {
+          "name": "ISDI Coders (Skylab)",
+          "description": "Details: 11-week (+900h) bootcamp focused on programming.\n\nTechnologies: React, Redux, Vue, Pinia, Javascript, Typescript, NodeJS, ExpressJS, MongoDB, Mongoose, PostMan, JWT, API Restful, Jest, Vite, Vitest .\n\n",
+          "URL": "https://isdicoders.com/es/full-time-format-bootcamp-madrid_50440",
+          "image": {
+            "alt": "1278-Captura de pantalla 2021-09-24 a las 14.22.27.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/9bbfb5da-8ce2-4387-8aa1-6882e6d80d87_1278-captura-de-pant.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Redux",
+            "type": "technology"
+          },
+          {
+            "name": "Vue",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "Express",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          },
+          {
+            "name": "mongoose",
+            "type": "technology"
+          },
+          {
+            "name": "REST",
+            "type": "technology"
+          },
+          {
+            "name": "Jest",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
   "careerPreferences": {
     "preferences": {
       "preferredCompetences": [
