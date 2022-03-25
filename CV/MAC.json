@@ -43,6 +43,23 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "COS Mantenimiento S.A."
+        },
+        "roles": [
+          {
+            "name": "Helpdesk Support",
+            "startDate": "2009-03-01",
+            "finishDate": "2011-05-01",
+            "challenges": [
+              {
+                "description": "WDS development, deploy and support for Modelo Wacom-STU500 Correos project.\n\n"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
