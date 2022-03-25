@@ -60,6 +60,42 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "OCU Ediciones S.A.",
+          "image": {
+            "alt": "logo-es-ES png.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/710320ac-87d0-48ea-85d5-eaa9a441ae45_logo-es-es-png.png"
+          },
+          "URL": "https://www.ocu.org/"
+        },
+        "roles": [
+          {
+            "name": "Network & Helpdesk Support",
+            "startDate": "2011-05-01",
+            "finishDate": "2021-12-01",
+            "challenges": [
+              {
+                "description": "System administrator and network support, member of Contact center and Collaboration international group support of Euroconsumers.\n\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "VMWare",
+                "type": "technology"
+              },
+              {
+                "name": "Active Directory",
+                "type": "technology"
+              },
+              {
+                "name": "Citrix",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
