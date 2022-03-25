@@ -25,6 +25,27 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Clinicas Rincón S.A."
+        },
+        "roles": [
+          {
+            "name": "Helpdesk Support",
+            "startDate": "2005-06-01",
+            "finishDate": "2009-03-01",
+            "challenges": [
+              {
+                "description": "Development, deploy and support prevention of occupational hazards project.\n\n"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "careerPreferences": {
     "preferences": {
       "preferredCompetences": [
