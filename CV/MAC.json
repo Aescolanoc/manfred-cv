@@ -97,6 +97,19 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Decide to become a Developer",
+          "description": ""
+        },
+        "type": "achievement",
+        "publishingDate": "2022-12-01",
+        "tags": [
+          ""
+        ]
+      }
     ]
   },
   "knowledge": {
