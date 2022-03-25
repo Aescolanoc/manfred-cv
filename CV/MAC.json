@@ -1,0 +1,28 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Amalia",
+      "surnames": "Escolano Camacho",
+      "title": "Junior FrontEnd Developer",
+      "description": "After several years as Helpdesk operator I've decided to switch to Software Developer.\nI'm looking for a job as a Junior Frontend Developer where I can learn and give my best.",
+      "avatar": {
+        "alt": "Me.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/8f2afd76-41c1-49fc-b1fa-27a2e0c613df_me.png"
+      },
+      "location": {
+        "notes": "Madrid"
+      }
+    },
+    "interestingFacts": [
+      {
+        "topic": "Junior FrontEnd Developer",
+        "fact": "I like Tech, Inline Skating, Astronomy and Nature\nI'm from Málaga but I live in Madrid from 2009, now I'm looking for a path change in my career to become a FrontEnd Developer.\n"
+      }
+    ]
+  }
+}
