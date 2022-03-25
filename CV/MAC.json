@@ -98,6 +98,67 @@
         ]
       }
     ],
+    "projects": [
+      {
+        "details": {
+          "name": "RollerMap",
+          "description": "Web with all skating rinks and routes in one place, filtered by location, type and difficulty.",
+          "image": {
+            "alt": "logo-purple copy.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/0a53442b-264b-4961-b510-0ac81748024e_logo-purple-copy.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-04-01",
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "mongoose",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "Vuex",
+                "type": "technology"
+              },
+              {
+                "name": "Netlify",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "publicArtifacts": [
       {
         "details": {
