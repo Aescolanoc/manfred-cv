@@ -56,23 +56,6 @@
       },
       {
         "organization": {
-          "name": "COS Mantenimiento S.A."
-        },
-        "roles": [
-          {
-            "name": "Helpdesk Support",
-            "startDate": "2009-03-01",
-            "finishDate": "2011-05-01",
-            "challenges": [
-              {
-                "description": "WDS development, deploy and support for Modelo Wacom-STU500 Correos project.\n\n"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "OCU Ediciones S.A.",
           "image": {
             "alt": "logo-es-ES png.png",
@@ -87,7 +70,7 @@
             "finishDate": "2021-12-01",
             "challenges": [
               {
-                "description": "System administrator and network support, member of Contact center and Collaboration international group support of Euroconsumers.\n\n"
+                "description": "System administrator and Network Supportf, member of the Contact Center and the International Collaboration Froup for support of Euroconsumers.\n"
               }
             ],
             "competences": [
@@ -102,6 +85,23 @@
               {
                 "name": "Citrix",
                 "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "COS Mantenimiento S.A."
+        },
+        "roles": [
+          {
+            "name": "Helpdesk Support",
+            "startDate": "2009-03-01",
+            "finishDate": "2011-05-01",
+            "challenges": [
+              {
+                "description": "WDS development, deploy and support for Modelo Wacom-STU500 Correos project.\n\n"
               }
             ]
           }
