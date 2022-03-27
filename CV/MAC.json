@@ -112,7 +112,7 @@
       {
         "details": {
           "name": "RollerMap",
-          "description": "Web with all skating rinks and routes in one place, filtered by location, type and difficulty.",
+          "description": "A website with all skating rinks and routes in one place, filtered by location, type and difficulty.",
           "image": {
             "alt": "logo-purple copy.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/0a53442b-264b-4961-b510-0ac81748024e_logo-purple-copy.png"
