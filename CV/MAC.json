@@ -188,12 +188,24 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Introduction to Computer Networking Course",
+        "startDate": "2019-07-01",
+        "finishDate": "2019-08-01",
+        "institution": {
+          "name": "Stanford Online School of Engineering",
+          "description": "Structure and components of computer networks, packet switching, and layer architectures.",
+          "URL": "https://online.stanford.edu/courses/cs144-introduction-computer-networking"
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Full-Stack Web Development Bootcamp",
         "startDate": "2022-01-01",
         "finishDate": "2022-04-01",
         "institution": {
           "name": "ISDI Coders (Skylab)",
-          "description": "Details: 11-week (+900h) bootcamp focused on programming.\n\nTechnologies: React, Redux, Vue, Pinia, Javascript, Typescript, NodeJS, ExpressJS, MongoDB, Mongoose, PostMan, JWT, API Restful, Jest, Vite, Vitest .\n\n",
+          "description": "Details: 11-week (+900h) bootcamp focused on web development\n\nTechnologies: React, Redux, Vue, Pinia, Javascript, Typescript, NodeJS, ExpressJS, MongoDB, Mongoose, PostMan, JWT, API Restful, Jest, Vite, Vitest .\n\n",
           "URL": "https://isdicoders.com/es/full-time-format-bootcamp-madrid_50440",
           "image": {
             "alt": "1278-Captura de pantalla 2021-09-24 a las 14.22.27.png",
@@ -262,18 +274,6 @@
             "type": "technology"
           }
         ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Introduction to Computer Networking Course",
-        "startDate": "2019-07-01",
-        "finishDate": "2019-08-01",
-        "institution": {
-          "name": "Stanford Online School of Engineering",
-          "description": "Structure and components of computer networks, packet switching, and layer architectures.",
-          "URL": "https://online.stanford.edu/courses/cs144-introduction-computer-networking"
-        }
       }
     ]
   },
