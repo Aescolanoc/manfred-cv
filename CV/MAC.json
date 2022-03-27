@@ -9,7 +9,7 @@
       "name": "Amalia",
       "surnames": "Escolano Camacho",
       "title": "Junior FrontEnd Developer",
-      "description": "After several years as Helpdesk Operator I've decided to switch to web development.\nI'm looking for a job as a Junior Frontend Developer with a friendly team and an interesting project where I can improve my skills.",
+      "description": "After several years as a Helpdesk Operator I've decided to switch to web development. I'm looking for a job as a Junior FrontEnd Developer at a company with a friendly team and an interesting project where I can improve my skills.",
       "avatar": {
         "alt": "Me.png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/8f2afd76-41c1-49fc-b1fa-27a2e0c613df_me.png"
@@ -31,7 +31,7 @@
     "interestingFacts": [
       {
         "topic": "Junior FrontEnd Developer",
-        "fact": "I like Tech, Inline Skating, Astronomy and Nature.\n\nI'm from Málaga but I live in Madrid from 2009, now I'm looking for a path change in my career to become a FrontEnd Developer.\n"
+        "fact": "I like Tech, Inline Skating, Astronomy and Nature.\n\nI'm from Málaga but I live in Madrid since 2009. I am currently looking for a career path change becoming a FrontEnd Developer.\n"
       }
     ]
   },
@@ -125,35 +125,7 @@
             "startDate": "2022-03-01",
             "competences": [
               {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
                 "name": "Vue",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Jest",
-                "type": "technology"
-              },
-              {
-                "name": "mongoose",
-                "type": "technology"
-              },
-              {
-                "name": "Github",
                 "type": "technology"
               },
               {
@@ -161,7 +133,35 @@
                 "type": "technology"
               },
               {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
                 "name": "Netlify",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "mongoose",
                 "type": "technology"
               }
             ]
