@@ -79,11 +79,11 @@
                 "type": "technology"
               },
               {
-                "name": "Active Directory",
+                "name": "Citrix",
                 "type": "technology"
               },
               {
-                "name": "Citrix",
+                "name": "Active Directory",
                 "type": "technology"
               }
             ]
@@ -92,7 +92,12 @@
       },
       {
         "organization": {
-          "name": "COS Mantenimiento S.A."
+          "name": "COS Mantenimiento S.A.",
+          "image": {
+            "alt": "cos.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/04/1e52c8c2-9576-49a6-b740-16698badf586_cos.jpeg"
+          },
+          "URL": "https://www.cosglobalservices.com/"
         },
         "roles": [
           {
@@ -184,6 +189,76 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      },
+      {
+        "name": "English"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      }
+    ],
     "studies": [
       {
         "studyType": "unaccredited",
