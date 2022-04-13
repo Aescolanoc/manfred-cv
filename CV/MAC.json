@@ -79,11 +79,11 @@
                 "type": "technology"
               },
               {
-                "name": "Citrix",
+                "name": "Active Directory",
                 "type": "technology"
               },
               {
-                "name": "Active Directory",
+                "name": "Citrix",
                 "type": "technology"
               }
             ]
@@ -118,6 +118,7 @@
         "details": {
           "name": "RollerMap",
           "description": "A website with all skating rinks and routes in one place, filtered by location, type and difficulty.",
+          "URL": "https://rollermap.com",
           "image": {
             "alt": "logo-purple copy.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/0a53442b-264b-4961-b510-0ac81748024e_logo-purple-copy.png"
@@ -293,11 +294,7 @@
             "type": "technology"
           },
           {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "CSS",
+            "name": "NodeJS",
             "type": "technology"
           },
           {
@@ -305,15 +302,15 @@
             "type": "technology"
           },
           {
-            "name": "Redux",
-            "type": "technology"
-          },
-          {
             "name": "Vue",
             "type": "technology"
           },
           {
-            "name": "NodeJS",
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
             "type": "technology"
           },
           {
@@ -325,7 +322,19 @@
             "type": "technology"
           },
           {
+            "name": "Redux",
+            "type": "technology"
+          },
+          {
             "name": "TypeScript",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Jest",
             "type": "technology"
           },
           {
@@ -334,14 +343,6 @@
           },
           {
             "name": "REST",
-            "type": "technology"
-          },
-          {
-            "name": "Jest",
-            "type": "technology"
-          },
-          {
-            "name": "Git",
             "type": "technology"
           },
           {
