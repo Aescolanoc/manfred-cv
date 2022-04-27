@@ -20,12 +20,12 @@
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/amalia-escolano/"
-      },
-      {
         "type": "github",
         "URL": "https://github.com/aescolanoc"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/amalia-escolano/"
       }
     ],
     "interestingFacts": [
@@ -33,27 +33,25 @@
         "topic": "Junior FrontEnd Developer",
         "fact": "I like Tech, Inline Skating, Astronomy and Nature.\n\nI'm from Málaga but I live in Madrid since 2009. I am currently looking for a career path change becoming a FrontEnd Developer.\n"
       }
+    ],
+    "recommendations": [
+      {
+        "title": "RollerMap",
+        "type": "other",
+        "URL": "https://rollermap.com/",
+        "authors": [
+          {
+            "name": "Amalia",
+            "surnames": "Escolano",
+            "title": "Author"
+          }
+        ],
+        "summary": "A website with all skating rinks and routes in one place, filtered by location, type and difficulty."
+      }
     ]
   },
   "experience": {
     "jobs": [
-      {
-        "organization": {
-          "name": "Clinicas Rincón S.A."
-        },
-        "roles": [
-          {
-            "name": "Helpdesk Support",
-            "startDate": "2005-06-01",
-            "finishDate": "2009-03-01",
-            "challenges": [
-              {
-                "description": "Development, deployment and support for Prevention of Occupational Hazards project.\n"
-              }
-            ]
-          }
-        ]
-      },
       {
         "organization": {
           "name": "OCU Ediciones S.A.",
@@ -75,15 +73,15 @@
             ],
             "competences": [
               {
-                "name": "VMWare",
-                "type": "technology"
-              },
-              {
                 "name": "Active Directory",
                 "type": "technology"
               },
               {
                 "name": "Citrix",
+                "type": "technology"
+              },
+              {
+                "name": "VMWare",
                 "type": "technology"
               }
             ]
@@ -111,6 +109,23 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Clinicas Rincón S.A."
+        },
+        "roles": [
+          {
+            "name": "Helpdesk Support",
+            "startDate": "2005-06-01",
+            "finishDate": "2009-03-01",
+            "challenges": [
+              {
+                "description": "Development, deployment and support for Prevention of Occupational Hazards project.\n"
+              }
+            ]
+          }
+        ]
       }
     ],
     "projects": [
@@ -131,11 +146,11 @@
             "startDate": "2022-03-01",
             "competences": [
               {
-                "name": "Vue",
+                "name": "Git",
                 "type": "technology"
               },
               {
-                "name": "Vuex",
+                "name": "Github",
                 "type": "technology"
               },
               {
@@ -147,11 +162,7 @@
                 "type": "technology"
               },
               {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Github",
+                "name": "MongoDB",
                 "type": "technology"
               },
               {
@@ -163,7 +174,11 @@
                 "type": "technology"
               },
               {
-                "name": "MongoDB",
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "Vuex",
                 "type": "technology"
               },
               {
@@ -178,24 +193,20 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "Decided to become a Developer",
-          "description": ""
+          "name": "Decided to become a Developer"
         },
         "type": "achievement",
-        "publishingDate": "2022-01-01",
-        "tags": [
-          ""
-        ]
+        "publishingDate": "2022-01-01"
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish"
+        "name": "English"
       },
       {
-        "name": "English"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -264,18 +275,6 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
-        "name": "Introduction to Computer Networking Course",
-        "startDate": "2019-07-01",
-        "finishDate": "2019-08-01",
-        "institution": {
-          "name": "Stanford Online School of Engineering",
-          "description": "Structure and components of computer networks, packet switching, and layer architectures.",
-          "URL": "https://online.stanford.edu/courses/cs144-introduction-computer-networking"
-        }
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
         "name": "Full-Stack Web Development Bootcamp",
         "startDate": "2022-01-01",
         "finishDate": "2022-04-01",
@@ -290,19 +289,19 @@
         },
         "linkedCompetences": [
           {
-            "name": "JavaScript",
+            "name": "CSS",
             "type": "technology"
           },
           {
-            "name": "NodeJS",
+            "name": "Express",
             "type": "technology"
           },
           {
-            "name": "React",
+            "name": "Git",
             "type": "technology"
           },
           {
-            "name": "Vue",
+            "name": "Github",
             "type": "technology"
           },
           {
@@ -310,7 +309,11 @@
             "type": "technology"
           },
           {
-            "name": "CSS",
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Jest",
             "type": "technology"
           },
           {
@@ -318,7 +321,15 @@
             "type": "technology"
           },
           {
-            "name": "Express",
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "REST",
+            "type": "technology"
+          },
+          {
+            "name": "React",
             "type": "technology"
           },
           {
@@ -330,26 +341,26 @@
             "type": "technology"
           },
           {
-            "name": "Git",
-            "type": "technology"
-          },
-          {
-            "name": "Jest",
+            "name": "Vue",
             "type": "technology"
           },
           {
             "name": "mongoose",
             "type": "technology"
-          },
-          {
-            "name": "REST",
-            "type": "technology"
-          },
-          {
-            "name": "Github",
-            "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Introduction to Computer Networking Course",
+        "startDate": "2019-07-01",
+        "finishDate": "2019-08-01",
+        "institution": {
+          "name": "Stanford Online School of Engineering",
+          "description": "Structure and components of computer networks, packet switching, and layer architectures.",
+          "URL": "https://online.stanford.edu/courses/cs144-introduction-computer-networking"
+        }
       }
     ]
   },
@@ -365,15 +376,15 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
           "name": "React",
           "type": "technology"
         },
         {
           "name": "Vue",
-          "type": "technology"
-        },
-        {
-          "name": "JavaScript",
           "type": "technology"
         }
       ]
