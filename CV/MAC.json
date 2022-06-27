@@ -289,6 +289,12 @@
       },
       {
         "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Express",
           "type": "technology"
         }
