@@ -402,6 +402,17 @@
           "description": "Structure and components of computer networks, packet switching, and layer architectures.",
           "URL": "https://online.stanford.edu/courses/cs144-introduction-computer-networking"
         }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "HNC IT Technician",
+        "startDate": "2003-10-01",
+        "finishDate": "2005-06-01",
+        "institution": {
+          "name": "Juan de la cierva",
+          "description": "Certificate of Higher Education (HNC)  IT Technician"
+        }
       }
     ]
   },
