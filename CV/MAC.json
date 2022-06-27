@@ -54,6 +54,41 @@
     "jobs": [
       {
         "organization": {
+          "name": "Fundacion Cibervoluntarios",
+          "image": {
+            "alt": "logo-nav.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/2379d48f-ad8f-499b-8a16-fe419b559e84_logo-nav.png"
+          },
+          "URL": "https://www.cibervoluntarios.org/"
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer",
+            "startDate": "2022-06-01",
+            "challenges": [
+              {
+                "description": "Frontend developer. Javascript, Vue with Pinia and Typescript"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "OCU Ediciones S.A.",
           "image": {
             "alt": "logo-es-ES png.png",
@@ -166,6 +201,10 @@
                 "type": "technology"
               },
               {
+                "name": "Mongoose",
+                "type": "technology"
+              },
+              {
                 "name": "Netlify",
                 "type": "technology"
               },
@@ -179,10 +218,6 @@
               },
               {
                 "name": "Vuex",
-                "type": "technology"
-              },
-              {
-                "name": "mongoose",
                 "type": "technology"
               }
             ]
@@ -321,6 +356,10 @@
             "type": "technology"
           },
           {
+            "name": "Mongoose",
+            "type": "technology"
+          },
+          {
             "name": "NodeJS",
             "type": "technology"
           },
@@ -342,10 +381,6 @@
           },
           {
             "name": "Vue",
-            "type": "technology"
-          },
-          {
-            "name": "mongoose",
             "type": "technology"
           }
         ]
