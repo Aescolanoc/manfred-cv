@@ -90,6 +90,10 @@
                 "type": "technology"
               },
               {
+                "name": "SVN",
+                "type": "technology"
+              },
+              {
                 "name": "jQuery",
                 "type": "technology"
               }
