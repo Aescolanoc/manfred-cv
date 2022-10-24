@@ -110,6 +110,7 @@
           {
             "name": "Frontend Developer",
             "startDate": "2022-06-01",
+            "finishDate": "2022-10-01",
             "challenges": [
               {
                 "description": "Frontend developer. Javascript, Vue with Pinia and Typescript"
