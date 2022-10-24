@@ -9,7 +9,7 @@
       "name": "Amalia",
       "surnames": "Escolano Camacho",
       "title": "Junior Fullstack Developer",
-      "description": "After several years as a Helpdesk Operator I've decided to switch to web development. Currently I´m working as  Junior FrontEnd Developer but i open to hear offers to work in a company with a friendly team and an interesting project where I can improve my skills.",
+      "description": "After several years as a Helpdesk Operator I've decided to switch to web development. Currently I´m working as  Junior Fullstack Developer.",
       "avatar": {
         "alt": "Me.png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/8f2afd76-41c1-49fc-b1fa-27a2e0c613df_me.png"
@@ -242,11 +242,11 @@
     "languages": [
       {
         "name": "English",
-        "level": "Limited working proficiency"
+        "level": "Professional working proficiency"
       },
       {
         "name": "Spanish",
-        "level": "Limited working proficiency"
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
