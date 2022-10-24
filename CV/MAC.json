@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
@@ -55,6 +54,49 @@
   },
   "experience": {
     "jobs": [
+      {
+        "organization": {
+          "name": "EQA",
+          "image": {
+            "alt": "Logo-EQA-Grupo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/24/ec575400-d537-4454-81d9-adfbe933129a_logo-eqa-grupo.png"
+          },
+          "URL": "https://eqa.es/"
+        },
+        "roles": [
+          {
+            "name": "Junior Fullstack Developer",
+            "startDate": "2022-10-01",
+            "challenges": [
+              {
+                "description": "Junior Fullstack Developer "
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "MVC",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
       {
         "organization": {
           "name": "Fundacion Cibervoluntarios",
@@ -241,12 +283,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -488,7 +528,6 @@
       "preferredRoles": [
         "Frontend Developer"
       ]
-    },
-    "status": "openToOffers"
+    }
   }
 }
