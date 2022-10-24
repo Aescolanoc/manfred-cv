@@ -1,21 +1,24 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Amalia",
       "surnames": "Escolano Camacho",
-      "title": "Junior FrontEnd Developer",
+      "title": "Junior Fullstack Developer",
       "description": "After several years as a Helpdesk Operator I've decided to switch to web development. Currently I´m working as  Junior FrontEnd Developer but i open to hear offers to work in a company with a friendly team and an interesting project where I can improve my skills.",
       "avatar": {
         "alt": "Me.png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/8f2afd76-41c1-49fc-b1fa-27a2e0c613df_me.png"
       },
       "location": {
-        "notes": "Madrid"
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -108,11 +111,11 @@
             ],
             "competences": [
               {
-                "name": "Active Directory",
+                "name": "Citrix",
                 "type": "technology"
               },
               {
-                "name": "Citrix",
+                "name": "Microsoft Active Directory",
                 "type": "technology"
               },
               {
@@ -238,34 +241,18 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
           "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vue",
           "type": "technology"
         }
       },
@@ -283,19 +270,7 @@
       },
       {
         "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bootstrap",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Express",
+          "name": "React",
           "type": "technology"
         }
       },
@@ -307,7 +282,37 @@
       },
       {
         "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
           "type": "technology"
         }
       }
@@ -449,7 +454,11 @@
           "name": "Vue",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Frontend Developer"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
