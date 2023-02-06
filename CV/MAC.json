@@ -316,7 +316,13 @@
       },
       {
         "skill": {
-          "name": "CSS",
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
           "type": "technology"
         }
       },
@@ -328,19 +334,19 @@
       },
       {
         "skill": {
-          "name": "Redux",
+          "name": "Bootstrap",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Vue",
+          "name": "Figma",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Git",
+          "name": "CSS",
           "type": "technology"
         }
       },
@@ -352,31 +358,19 @@
       },
       {
         "skill": {
-          "name": "Express",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bootstrap",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": ".NET",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "SQLServer",
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
           "type": "technology"
         }
       },
@@ -388,13 +382,25 @@
       },
       {
         "skill": {
-          "name": "C#",
+          "name": "Redux",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "jQuery",
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
           "type": "technology"
         }
       }
