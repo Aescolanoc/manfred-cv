@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
@@ -274,35 +273,61 @@
             ]
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Empodera.org",
+          "description": "Plataforma para la empresa Cibervoluntarios donde los usuarios pueden crear y gestionar distintas iniciativas ciudadanas.",
+          "URL": "https://empodera.org/",
+          "image": {
+            "alt": "empoderaORG_logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/19/202f6c12-9a1b-47f9-af65-8774ce0808e2_empoderaorg_logo.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-06-01",
+            "finishDate": "2022-10-01",
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ],
     "publicArtifacts": [
       {
         "details": {
-          "name": "Decided to become a Developer",
-          "description": ""
+          "name": "Decided to become a Developer"
         },
         "type": "achievement",
-        "publishingDate": "2022-01-01",
-        "tags": [
-          ""
-        ]
+        "publishingDate": "2022-01-01"
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       },
       {
-        "name": "German",
-        "level": "Limited working proficiency"
+        "name": "German"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -552,23 +577,6 @@
       "preferredRoles": [
         "Frontend Developer"
       ]
-    },
-    "status": "openToOffers"
-  },
-  "asgardPreferences": {
-    "mainStackTechs": [
-      {
-        "name": "Vue",
-        "type": "technology"
-      },
-      {
-        "name": "Git",
-        "type": "technology"
-      },
-      {
-        "name": "JavaScript",
-        "type": "technology"
-      }
-    ]
+    }
   }
 }
