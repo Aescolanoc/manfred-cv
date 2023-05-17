@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -11,25 +11,16 @@
       "title": "Junior Fullstack Developer",
       "description": "Hola! \nMi nombre es Amalia, soy de Málaga y vivo en Madrid desde 2009. Soy Frontend Developer y aunque he trabajado anteriormente como desarrolladora he sido durante muchos años técnico helpdesk y administrador de sistemas y redes. \nA finales de 2021 decidí hacer un bootcamp para convertirme en Fullstack Developer. \n\nComo se indica en mi CV en junio hará un año que empecé a trabajar como desarrolladora pero sé que puedo sacar cualquier proyecto adelante porque tengo muchas ganas de trabajar, aprender y crecer\nMe considero una persona sincera, empatica y buena teamplayer a la que le gusta mucho aprender.",
       "avatar": {
-        "alt": "Me.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/8f2afd76-41c1-49fc-b1fa-27a2e0c613df_me.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/8f2afd76-41c1-49fc-b1fa-27a2e0c613df_me.png",
+        "alt": "Me.png"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
         "region": "Comunidad de Madrid",
         "municipality": "Madrid"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/aescolanoc"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/amalia-escolano/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Junior Fullstack Developer",
@@ -41,14 +32,21 @@
         "title": "RollerMap",
         "type": "other",
         "URL": "https://rollermap.com/",
+        "summary": "A website with all skating rinks and routes in one place, filtered by location, type and difficulty.",
         "authors": [
           {
             "name": "Amalia",
             "surnames": "Escolano",
             "title": "Author"
           }
-        ],
-        "summary": "A website with all skating rinks and routes in one place, filtered by location, type and difficulty."
+        ]
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://rollermap.com/",
+        "description": "RollerMap"
       }
     ]
   },
@@ -58,8 +56,8 @@
         "organization": {
           "name": "EQA",
           "image": {
-            "alt": "Logo-EQA-Grupo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/24/ec575400-d537-4454-81d9-adfbe933129a_logo-eqa-grupo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/24/ec575400-d537-4454-81d9-adfbe933129a_logo-eqa-grupo.png",
+            "alt": "Logo-EQA-Grupo.png"
           },
           "URL": "https://eqa.es/"
         },
@@ -105,8 +103,8 @@
         "organization": {
           "name": "Fundacion Cibervoluntarios",
           "image": {
-            "alt": "logo-nav.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/2379d48f-ad8f-499b-8a16-fe419b559e84_logo-nav.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/27/2379d48f-ad8f-499b-8a16-fe419b559e84_logo-nav.png",
+            "alt": "logo-nav.png"
           },
           "URL": "https://www.cibervoluntarios.org/"
         },
@@ -141,8 +139,8 @@
         "organization": {
           "name": "OCU Ediciones S.A.",
           "image": {
-            "alt": "logo-es-ES png.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/710320ac-87d0-48ea-85d5-eaa9a441ae45_logo-es-es-png.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/710320ac-87d0-48ea-85d5-eaa9a441ae45_logo-es-es-png.png",
+            "alt": "logo-es-ES png.png"
           },
           "URL": "https://www.ocu.org/"
         },
@@ -177,8 +175,8 @@
         "organization": {
           "name": "COS Mantenimiento S.A.",
           "image": {
-            "alt": "cos.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/04/1e52c8c2-9576-49a6-b740-16698badf586_cos.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/04/1e52c8c2-9576-49a6-b740-16698badf586_cos.jpeg",
+            "alt": "cos.jpeg"
           },
           "URL": "https://www.cosglobalservices.com/"
         },
@@ -216,12 +214,45 @@
     "projects": [
       {
         "details": {
+          "name": "Empodera.org",
+          "description": "Plataforma para la empresa Fundacion Cibervoluntarios donde los usuarios pueden crear y gestionar distintas iniciativas ciudadanas.",
+          "URL": "https://empodera.org/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/19/202f6c12-9a1b-47f9-af65-8774ce0808e2_empoderaorg_logo.png",
+            "alt": "empoderaORG_logo.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-06-01",
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2022-10-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "RollerMap",
           "description": "A website with all skating rinks and routes in one place, filtered by location, type and difficulty.",
           "URL": "https://rollermap.com",
           "image": {
-            "alt": "logo-purple copy.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/0a53442b-264b-4961-b510-0ac81748024e_logo-purple-copy.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/0a53442b-264b-4961-b510-0ac81748024e_logo-purple-copy.png",
+            "alt": "logo-purple copy.png"
           }
         },
         "type": "sideProject",
@@ -273,39 +304,6 @@
             ]
           }
         ]
-      },
-      {
-        "details": {
-          "name": "Empodera.org",
-          "description": "Plataforma para la empresa Fundacion Cibervoluntarios donde los usuarios pueden crear y gestionar distintas iniciativas ciudadanas.",
-          "URL": "https://empodera.org/",
-          "image": {
-            "alt": "empoderaORG_logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/19/202f6c12-9a1b-47f9-af65-8774ce0808e2_empoderaorg_logo.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-06-01",
-            "finishDate": "2022-10-01",
-            "competences": [
-              {
-                "name": "Bootstrap",
-                "type": "technology"
-              },
-              {
-                "name": "Cypress",
-                "type": "technology"
-              },
-              {
-                "name": "Vue",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
       }
     ],
     "publicArtifacts": [
@@ -321,52 +319,19 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "Alemán",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "German"
+        "name": "Español",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Inglés",
+        "level": "Professional working proficiency"
       }
     ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "Vue",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "jQuery",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQLServer",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": ".NET",
@@ -375,61 +340,7 @@
       },
       {
         "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Notion",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Redux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MVC",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Express",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Cypress",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Figma",
+          "name": "Bootstrap",
           "type": "technology"
         }
       },
@@ -441,7 +352,97 @@
       },
       {
         "skill": {
-          "name": "Bootstrap",
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cypress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Figma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MVC",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Notion",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
           "type": "technology"
         }
       }
@@ -452,16 +453,16 @@
         "degreeAchieved": true,
         "name": "Full-Stack Web Development Bootcamp",
         "startDate": "2022-01-01",
-        "finishDate": "2022-04-01",
         "institution": {
           "name": "ISDI Coders (Skylab)",
           "description": "Details: 11-week (+900h) bootcamp focused on web development\n\nTechnologies: React, Redux, Vue, Pinia, Javascript, Typescript, NodeJS, ExpressJS, MongoDB, Mongoose, PostMan, JWT, API Restful, Jest, Vite, Vitest .\n\n",
           "URL": "https://isdicoders.com/es/full-time-format-bootcamp-madrid_50440",
           "image": {
-            "alt": "1278-Captura de pantalla 2021-09-24 a las 14.22.27.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/9bbfb5da-8ce2-4387-8aa1-6882e6d80d87_1278-captura-de-pant.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/9bbfb5da-8ce2-4387-8aa1-6882e6d80d87_1278-captura-de-pant.png",
+            "alt": "1278-Captura de pantalla 2021-09-24 a las 14.22.27.png"
           }
         },
+        "finishDate": "2022-04-01",
         "linkedCompetences": [
           {
             "name": "CSS",
@@ -528,24 +529,44 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
-        "name": "Introduction to Computer Networking Course",
-        "startDate": "2019-07-01",
-        "finishDate": "2019-08-01",
+        "name": "HNC IT Technician",
+        "startDate": "2003-10-01",
         "institution": {
-          "name": "Stanford Online School of Engineering",
-          "description": "Structure and components of computer networks, packet switching, and layer architectures.",
-          "URL": "https://online.stanford.edu/courses/cs144-introduction-computer-networking"
-        }
+          "name": "Juan de la cierva",
+          "description": "Certificate of Higher Education (HNC)  IT Technician"
+        },
+        "finishDate": "2005-06-01"
       },
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
-        "name": "HNC IT Technician",
-        "startDate": "2003-10-01",
-        "finishDate": "2005-06-01",
+        "name": "Introduction to Computer Networking Course",
+        "startDate": "2019-07-01",
         "institution": {
-          "name": "Juan de la cierva",
-          "description": "Certificate of Higher Education (HNC)  IT Technician"
+          "name": "Stanford Online School of Engineering",
+          "description": "Structure and components of computer networks, packet switching, and layer architectures.",
+          "URL": "https://online.stanford.edu/courses/cs144-introduction-computer-networking"
+        },
+        "finishDate": "2019-08-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Atención al detalle",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
         }
       }
     ]
@@ -554,8 +575,17 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/amalia-escolano/"
+          "URL": "https://www.linkedin.com/in/amalia-escolano/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "amalia.escolano@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "625912818",
+          "countryCode": "+34"
         }
       ]
     },
@@ -577,6 +607,33 @@
       "preferredRoles": [
         "Frontend Developer"
       ]
-    }
+    },
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "Vue",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Valoro mucho a las personas con las que trabajo, asi que el equipo es lo más importante, un buen ambiente laboral en una empresa moderna trabajando Vue y con 100% remoto.",
+    "goodPractices": "SOLID",
+    "projects": [
+      {
+        "name": "Empodera.org"
+      },
+      {
+        "name": "RollerMap"
+      }
+    ]
   }
 }
