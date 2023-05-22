@@ -41,12 +41,6 @@
           }
         ]
       }
-    ],
-    "relevantLinks": [
-      {
-        "type": "other",
-        "URL": "https://rollermap.com/"
-      }
     ]
   },
   "experience": {
@@ -576,6 +570,10 @@
         {
           "URL": "https://www.linkedin.com/in/amalia-escolano/",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/aescolanoc",
+          "type": "other"
         }
       ],
       "contactMails": [
