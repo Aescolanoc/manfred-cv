@@ -9,7 +9,7 @@
       "name": "Amalia",
       "surnames": "Escolano Camacho",
       "title": "Junior Fullstack Developer",
-      "description": "Hola! \nMi nombre es Amalia, soy de Málaga y vivo en Madrid desde 2009. Soy Frontend Developer y aunque he trabajado anteriormente como desarrolladora he sido durante muchos años técnico helpdesk y administrador de sistemas y redes. \nA finales de 2021 decidí hacer un bootcamp para convertirme en Fullstack Developer. \n\nTras realizar el bootcamp empecé a trabajar como desarrolladora, sé que puedo sacar cualquier proyecto adelante porque tengo muchas ganas de trabajar.\nMe considero una persona sincera, empatica y buena teamplayer a la que le gusta mucho aprender.",
+      "description": "Hola! \nMi nombre es Amalia, soy de Málaga y vivo en Madrid desde 2009. Soy Frontend Developer y aunque he trabajado anteriormente como desarrolladora he sido durante muchos años técnico helpdesk y administrador de sistemas y redes. \nA finales de 2021 decidí hacer un bootcamp para convertirme en Fullstack Developer. \n\nSoy una persona activa que disfruta de los desafíos. Mi experiencia abarca tanto el desarrollo frontend como el fullstack. Lo que más me apasiona es involucrarme en proyectos de equipo innovadores y emocionantes, donde pueda aplicar mis habilidades y creatividad.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/8f2afd76-41c1-49fc-b1fa-27a2e0c613df_me.png",
         "alt": "Me.png"
@@ -312,16 +312,16 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Alemán",
+        "name": "DE",
         "level": "Limited working proficiency"
       },
       {
-        "name": "Español",
-        "level": "Native or bilingual proficiency"
+        "name": "EN",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Inglés",
-        "level": "Professional working proficiency"
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -573,7 +573,7 @@
         },
         {
           "URL": "https://github.com/aescolanoc",
-          "type": "other"
+          "type": "github"
         }
       ],
       "contactMails": [
@@ -630,6 +630,12 @@
       },
       {
         "name": "RollerMap"
+      }
+    ],
+    "bookmarks": [
+      {
+        "name": "RollerMap",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/19/74800777-f2e3-42e5-b8d5-6da484fee184_rollermap_logo.png"
       }
     ]
   }
