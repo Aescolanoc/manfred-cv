@@ -41,6 +41,16 @@
           }
         ]
       }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/amalia-escolano/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/aescolanoc"
+      }
     ]
   },
   "experience": {
