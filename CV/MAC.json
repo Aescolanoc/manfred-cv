@@ -66,11 +66,11 @@
         },
         "roles": [
           {
-            "name": "Junior Fullstack Developer",
+            "name": "Fullstack Developer",
             "startDate": "2022-10-01",
             "challenges": [
               {
-                "description": "Junior Fullstack Developer "
+                "description": "Fullstack Developer "
               }
             ],
             "competences": [
@@ -80,6 +80,10 @@
               },
               {
                 "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
                 "type": "technology"
               },
               {
