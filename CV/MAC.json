@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -323,14 +323,17 @@
     "languages": [
       {
         "name": "DE",
+        "fullName": "Alemán",
         "level": "Limited working proficiency"
       },
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -594,12 +597,6 @@
       ],
       "contactMails": [
         "amalia.escolano@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "625912818",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
