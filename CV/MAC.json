@@ -344,61 +344,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": ".NET",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bootstrap",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "C#",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Cypress",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Express",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Figma",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
           "type": "technology"
         }
       },
@@ -410,61 +356,7 @@
       },
       {
         "skill": {
-          "name": "MVC",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MapBox",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Notion",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Redux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQLServer",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Vue",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "jQuery",
           "type": "technology"
         }
       }
