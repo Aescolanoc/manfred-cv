@@ -416,6 +416,12 @@
       },
       {
         "skill": {
+          "name": "MapBox",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "MongoDB",
           "type": "technology"
         }
@@ -598,9 +604,6 @@
           "URL": "https://github.com/aescolanoc",
           "type": "github"
         }
-      ],
-      "contactMails": [
-        "amalia.escolano@gmail.com"
       ]
     },
     "preferences": {
