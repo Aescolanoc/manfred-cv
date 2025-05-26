@@ -501,6 +501,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
           "name": "JavaScript",
           "type": "technology"
         },
