@@ -513,6 +513,10 @@
           "type": "technology"
         },
         {
+          "name": "SQL",
+          "type": "technology"
+        },
+        {
           "name": "Vue",
           "type": "technology"
         }
