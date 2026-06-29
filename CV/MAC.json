@@ -344,6 +344,18 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "ChatGPT",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Claude Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Git",
           "type": "technology"
         }
@@ -351,6 +363,18 @@
       {
         "skill": {
           "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio",
           "type": "technology"
         }
       },
